@@ -29,7 +29,7 @@
 1. Clone o repositório:
 
 ```bash
-adicionar depos de cria no github
+git clone https://github.com/thevictorgabriel/transaction-service.git
 ```
 
 3. Execute a aplicação:
